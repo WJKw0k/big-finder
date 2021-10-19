@@ -8,4 +8,3 @@ However - make sure that pip is installed as well: https://pip.pypa.io/en/stable
 
 In the same directory as the file (using cmd for windows, terminal for Mac, etc), run **python3 big_finder.py**
 
-big_finder.py is in byte-code form. Don't worry, it's not malicious - this is my public account, after all. Just like you, I'm not looking to get expelled :)
